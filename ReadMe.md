@@ -6,23 +6,23 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
-- 💬 Ask me about DevOps and Open Source Community
-- 📫 How to reach me: https://animesh-deka.github.io/basic-html-css/ 
+- 💬 Ask me about Artificial Intelligence and Open Source Community
+- 📫 How to reach me: https://Prabhraj-Singh.github.io/basic-html-css/ 
 - ⚡ Fun fact: I love watching Anime!
 
 >Here are my GitHub stats:
 >
->![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh-deka&theme=midnight-purple&show_icons=true) 
+>![Prabhraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=animesh-deka&theme=midnight-blue&show_icons=true) 
 
 
 >Here are some of the programming languages that I use:
 >
 >>
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=animesh-deka&theme=midnight-purple&layout=compact)](https://github.com/animesh-deka/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhrajsingh&theme=midnight-blue&layout=compact)](https://github.com/prabhrajsingh/github-readme-stats)
 
 >Streaks, here we go, 
 >
-><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-deka&theme=midnight-purple" /></p>
+><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhrajsingh&theme=midnight-purple" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
