@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 >Here are my GitHub stats:
 >
->![Prabhraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhrajsingh&theme=midnight-purplee&show_icons=true) 
+>![Prabhraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabhrajsingh&theme=midnight-purple&show_icons=true) 
 
 
 >Here are some of the programming languages that I use:
