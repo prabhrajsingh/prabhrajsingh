@@ -2,12 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Object Oriented Programming through Java
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on Object Oriented Programming through C++
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 💬 Ask me about Artificial Intelligence and Open Source Community
-- 📫 How to reach me: https://Prabhraj-Singh.github.io/basic-html-css/ 
 - ⚡ Fun fact: I love watching Anime!
 
 >Here are my GitHub stats:
