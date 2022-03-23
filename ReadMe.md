@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 
 >Here are some of the programming languages that I use:
->
->>
+>C
+>>C++
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhrajsingh&theme=midnight-purple&layout=compact)](https://github.com/prabhrajsingh/github-readme-stats)
 
 >Streaks, here we go, 
