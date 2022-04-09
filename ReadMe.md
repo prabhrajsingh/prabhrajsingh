@@ -5,8 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Object Oriented Programming through C++
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
-- 💬 Ask me about Artificial Intelligence and Open Source Community
-- ⚡ Fun fact: I love watching Anime!
+- ⚡ Ask me about Anime!
 
 >Here are my GitHub stats:
 >
