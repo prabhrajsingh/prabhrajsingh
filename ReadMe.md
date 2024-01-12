@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **prabhrajsingh2@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhrajsingh&theme=midnight-purple" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhrajsingh&show_icons=true&locale=en" alt="prabhrajsingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhrajsingh&" alt="prabhrajsingh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhrajsingh&" alt="prabhrajsingh"/></p>
